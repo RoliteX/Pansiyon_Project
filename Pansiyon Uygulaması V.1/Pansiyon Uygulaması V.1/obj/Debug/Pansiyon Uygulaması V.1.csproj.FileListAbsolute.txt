@@ -1,0 +1,25 @@
+C:\Araçlarım\yazılım\c#\Pansiyon Uygulaması V.1\Pansiyon Uygulaması V.1\bin\Debug\Pansiyon Uygulaması V.1.exe.config
+C:\Araçlarım\yazılım\c#\Pansiyon Uygulaması V.1\Pansiyon Uygulaması V.1\bin\Debug\Pansiyon Uygulaması V.1.exe
+C:\Araçlarım\yazılım\c#\Pansiyon Uygulaması V.1\Pansiyon Uygulaması V.1\bin\Debug\Pansiyon Uygulaması V.1.pdb
+C:\Araçlarım\yazılım\c#\Pansiyon Uygulaması V.1\Pansiyon Uygulaması V.1\obj\Debug\Pansiyon Uygulaması V.1.csproj.AssemblyReference.cache
+C:\Araçlarım\yazılım\c#\Pansiyon Uygulaması V.1\Pansiyon Uygulaması V.1\obj\Debug\Pansiyon_Uygulaması_V._1.FrmYeniMusteri.resources
+C:\Araçlarım\yazılım\c#\Pansiyon Uygulaması V.1\Pansiyon Uygulaması V.1\obj\Debug\Pansiyon_Uygulaması_V._1.Properties.Resources.resources
+C:\Araçlarım\yazılım\c#\Pansiyon Uygulaması V.1\Pansiyon Uygulaması V.1\obj\Debug\Pansiyon Uygulaması V.1.csproj.GenerateResource.cache
+C:\Araçlarım\yazılım\c#\Pansiyon Uygulaması V.1\Pansiyon Uygulaması V.1\obj\Debug\Pansiyon Uygulaması V.1.csproj.CoreCompileInputs.cache
+C:\Araçlarım\yazılım\c#\Pansiyon Uygulaması V.1\Pansiyon Uygulaması V.1\obj\Debug\Pansiyon Uygulaması V.1.exe
+C:\Araçlarım\yazılım\c#\Pansiyon Uygulaması V.1\Pansiyon Uygulaması V.1\obj\Debug\Pansiyon Uygulaması V.1.pdb
+C:\Araçlarım\yazılım\c#\Pansiyon Uygulaması V.1\Pansiyon Uygulaması V.1\obj\Debug\Pansiyon_Uygulaması_V._1.FrmAdminGiris.resources
+C:\Araçlarım\yazılım\c#\Pansiyon Uygulaması V.1\Pansiyon Uygulaması V.1\obj\Debug\Pansiyon_Uygulaması_V._1.FrmAnaForm.resources
+C:\Araçlarım\yazılım\c#\Pansiyon Uygulaması V.1\Pansiyon Uygulaması V.1\obj\Debug\Pansiyon_Uygulaması_V._1.FrmOdalar.resources
+C:\Araçlarım\yazılım\c#\Pansiyon Uygulaması V.1\Pansiyon Uygulaması V.1\obj\Debug\Pansiyon_Uygulaması_V._1.FrmMusteriler.resources
+C:\Araçlarım\yazılım\c#\Pansiyon Uygulaması V.1\Pansiyon Uygulaması V.1\obj\Debug\Pansiyon_Uygulaması_V._1.FrmGelirGider.resources
+C:\Araçlarım\yazılım\c#\Pansiyon Uygulaması V.1\Pansiyon Uygulaması V.1\obj\Debug\Pansiyon_Uygulaması_V._1.FrmStoklar.resources
+C:\Araçlarım\yazılım\c#\Pansiyon Uygulaması V.1\Pansiyon Uygulaması V.1\bin\Debug\Interop.WMPLib.dll
+C:\Araçlarım\yazılım\c#\Pansiyon Uygulaması V.1\Pansiyon Uygulaması V.1\bin\Debug\AxInterop.WMPLib.dll
+C:\Araçlarım\yazılım\c#\Pansiyon Uygulaması V.1\Pansiyon Uygulaması V.1\obj\Debug\Interop.WMPLib.dll
+C:\Araçlarım\yazılım\c#\Pansiyon Uygulaması V.1\Pansiyon Uygulaması V.1\obj\Debug\AxInterop.WMPLib.dll
+C:\Araçlarım\yazılım\c#\Pansiyon Uygulaması V.1\Pansiyon Uygulaması V.1\obj\Debug\Pansiyon Uygulaması V.1.csproj.ResolveComReference.cache
+C:\Araçlarım\yazılım\c#\Pansiyon Uygulaması V.1\Pansiyon Uygulaması V.1\obj\Debug\Pansiyon_Uygulaması_V._1.FrmRadyoDinle.resources
+C:\Araçlarım\yazılım\c#\Pansiyon Uygulaması V.1\Pansiyon Uygulaması V.1\obj\Debug\Pansiyon_Uygulaması_V._1.FrmGazeteler.resources
+C:\Araçlarım\yazılım\c#\Pansiyon Uygulaması V.1\Pansiyon Uygulaması V.1\obj\Debug\Pansiyon_Uygulaması_V._1.FrmSifreGuncelle.resources
+C:\Araçlarım\yazılım\c#\Pansiyon Uygulaması V.1\Pansiyon Uygulaması V.1\obj\Debug\Pansiyon_Uygulaması_V._1.FrmMesajlar.resources
